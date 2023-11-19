@@ -22,7 +22,13 @@ The focus of our lab is to learn and demonstrate how to build a serverless machi
     <a href="https://github.com/Tongm56/ID2223/tree/main/Lab1"><strong>feel free to try »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Tongm56/ID2223/tree/main/Lab1">Demo</a>
+    <a href="https://huggingface.co/spaces/momowanwu/iris">Iris_Prediction</a>
+    ·
+    <a href="https://huggingface.co/spaces/momowanwu/wine_quality_pre">Wine_Prediction</a>
+    ·
+    <a href="https://huggingface.co/spaces/momowanwu/iris_monitor">Iris_Prediction_Monitor</a>
+    ·
+    <a href="https://huggingface.co/spaces/momowanwu/wine_quality_monitor">Wine_Prediction_Monitor</a>
     ·
     <a href="https://github.com/Tongm56/ID2223/issues">report Bug</a>
     ·
@@ -32,6 +38,7 @@ The focus of our lab is to learn and demonstrate how to build a serverless machi
 </p>
 
 This README.md is for developers who want to try to quickly develop machine learning model user interfaces online instead of just using ipynb for classification or regression.
+<span style="color:red">**Just click the link below the picture to see our demo.**</span>
  
 ## Table of contents
 
