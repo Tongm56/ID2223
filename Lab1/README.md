@@ -38,7 +38,10 @@ This README.md is for developers who want to try to quickly develop machine lear
 - [Background](#Background)
   - [Requirements](#Requirements)
   - [install](#install)
-- [Contributor](#Contributor)
+- [Structure](#Structure)
+  - [Iris](#Iris)
+  - [WineQuality](#WineQuality)
+- [Authors](#Authors)
 
 ## Background
 Usually, ordinary machine learning process is always based on local, such as directly using .ipynb for model data processing, training and prediction. Our lab this time used several advanced websites to build two serverless machine learning systems. They are hopsworks.ai, modal.com and huggingface.com
@@ -77,11 +80,12 @@ git clone https://github.com/Tongm56/ID2223/tree/main/Lab1.git
 
 #### Wine Quality 
 
-[![Wine Quality](https://github.com/Tongm56/ID2223/blob/main/Lab1/wine.png)](https://github.com/Tongm56/ID2223/blob/main/Lab1/wine.png)
+[![WineQuality](https://github.com/Tongm56/ID2223/blob/main/Lab1/wine.png)](https://github.com/Tongm56/ID2223/blob/main/Lab1/wine.png)
 
 ### Authors
-- [Tong Mo](https://github.com/Tongm56)
-- [Bokuan Li](https://github.com/bokuan)
+- [TongMo](https://github.com/Tongm56)
+- [BokuanLi](https://github.com/bokuan)
+
 ### Details for wine quality dataset
 | quality | count |
 |---------|-------|
