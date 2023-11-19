@@ -15,7 +15,7 @@ The focus of our lab is to learn and demonstrate how to build a serverless machi
     <img src="https://raw.githubusercontent.com/bokuan/ID2223/main/average.png?token=GHSAT0AAAAAACHL4DAOO2XQVNTSNYIPH476ZKY6VSQ" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center">"ID2223 - Lab1</h3>
+  <h3 align="center">ID2223 - Lab1</h3>
   <p align="center">
     Serverless ML System
     <br />
