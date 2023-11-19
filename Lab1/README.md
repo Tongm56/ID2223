@@ -85,7 +85,7 @@ git clone https://github.com/Tongm56/ID2223/tree/main/Lab1.git
 
 [![Iris](https://github.com/Tongm56/ID2223/blob/main/Lab1/Iris.png)](https://github.com/Tongm56/ID2223/blob/main/Lab1/Iris.png)
 
-#### Wine Quality 
+#### WineQuality 
 
 [![WineQuality](https://github.com/Tongm56/ID2223/blob/main/Lab1/wine.png)](https://github.com/Tongm56/ID2223/blob/main/Lab1/wine.png)
 
