@@ -70,7 +70,6 @@ Clone the repo
 ```sh
 git clone https://github.com/Tongm56/ID2223/tree/main/Lab1.git
 ```
-3. Clone the repo
 ### Structure
 #### Iris 
 
