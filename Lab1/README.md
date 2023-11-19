@@ -104,7 +104,7 @@ Therefore, we use a classification method for the wine quality dataset and use t
 Of course, developers can be divided into more categories, such as 3, 4, and 5 are low quality, 6 is medium quality, and 7, 8, and 9 are high quality, depending on the quality of the data and their ideas. In any case, the principles and ideas are the same, and only a small part of the code needs to be changed.
 ### License
 
- [LICENSE.txt](https://github.com/Tongm56/ID2223/tree/main/LICENSE.txt)
+ [LICENSE.txt](https://github.com/Tongm56/ID2223/blob/main/LICENSE)
 
 ### Reference
 
